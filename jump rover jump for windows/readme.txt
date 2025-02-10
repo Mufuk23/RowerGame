@@ -1,0 +1,1 @@
+jump rover jumpa çift tıklayınca çalışması lazım
